@@ -1,1 +1,9 @@
 This is a new feature on feature/add branch
+
+
+
+Logic for adding two numbers:
+
+fetch num1, num2
+Sum = num1 + num2
+return sum
